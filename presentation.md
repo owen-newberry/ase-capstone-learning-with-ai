@@ -11,48 +11,14 @@ paginate: true
 
 # What I Researched
 
-1. Real-Time Screen Capture & Computer Vision
-2. OCR Integration & Text Extraction in Games
-3. Real-Time Rendering Pipeline Concepts
-4. Neural Rendering & AI-Assisted Graphics
+1. Real-Time Rendering Pipeline Concepts
+2. Neural Rendering & AI-Assisted Graphics
 
 AI Tools: **Claude Sonnet 4.6**, **ChatGPT**
 
 ---
 
-# Topic 1: Screen Capture
-
-**Goal:** Capture game screens at 15–30 FPS without hurting performance
-
-- **Desktop Duplication API** > BitBlt
-  - GPU-accelerated, modern Windows compatible
-  - Requires careful resource management
-- **Multi-threaded architecture**
-  - Separate threads: capture, processing, display
-  - Thread-safe queues between stages
-- **Change detection** — skip frames when nothing relevant changed
-- **Edge cases** — handle alt-tab, minimize, resolution/DPI changes
-
----
-
-# Topic 2: OCR in Games
-
-**Problem:** Stylized game fonts break standard OCR
-
-- **Preprocessing pipeline**
-  - Adaptive thresholding
-  - Erosion/dilation
-  - Contrast enhancement, scaling
-- **Engine choice:** Tesseract
-  - Restrict to expected characters (uppercase, digits)
-  - Train on game-specific font data
-- **False positive reduction**
-  - Filter by screen region + expected dimensions
-  - For animated UI: average multiple frames first
-
----
-
-# Topic 3: The Rendering Pipeline
+# Topic 1: The Rendering Pipeline
 
 **Why I needed this:**
 - My capstone involves patterns that ultimately feed clean data into the rendering pipeline
@@ -111,7 +77,7 @@ Every frame, game code must deliver:
 
 ---
 
-# Topic 4: Neural Rendering
+# Topic 2: Neural Rendering
 
 - Neural upscalers (DLSS 4, FSR 3) created new constraints
 - These constraints didn't exist 5 years ago
