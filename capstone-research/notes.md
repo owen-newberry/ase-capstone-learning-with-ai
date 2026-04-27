@@ -4,10 +4,10 @@
 Throughout my ASE capstone project, I have leveraged AI tools as a research partner, coding assistant, and brainstorming aid. This document summarizes key lessons, strategies, and reflections from integrating AI into my workflow.
 
 ## How I Used AI
-- **Technical Research:** Used AI to quickly compare libraries, frameworks, and algorithms (e.g., for OCR, screen capture, threading models).
+- **Technical Research:** Used AI to quickly compare libraries, frameworks, and algorithms (e.g., threading models, Unreal subsystems, analysis tooling).
 - **Debugging:** Asked AI to help diagnose errors, suggest fixes, and explain cryptic error messages.
 - **Prototyping:** Generated code snippets for new features, then iteratively refined them based on project needs.
-- **Learning New Concepts:** Used AI to explain advanced topics (e.g., GPU acceleration, multi-threading, image preprocessing) in accessible terms.
+- **Learning New Concepts:** Used AI to explain advanced topics (e.g., GPU acceleration, multi-threading, real-time performance trade-offs) in accessible terms.
 - **Best Practices:** Consulted AI for architectural advice, code organization, and performance optimization tips.
 
 ## What I Learned

@@ -81,7 +81,7 @@ Every frame, game code must deliver:
 
 - Neural upscalers (DLSS 4, FSR 3) created new constraints
 - These constraints didn't exist 5 years ago
-- Clean software design is even more important with the increased complexity of the algorithims
+- Clean software design is even more important with the increased complexity of the algorithms
 
 ---
 
