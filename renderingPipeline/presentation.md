@@ -92,9 +92,3 @@ My patterns map to steps **1, 2, and 4** especially.
 - **Jitter** must be applied and then **accounted for** in motion.  
 - **History** needs stable, predictable state — the same “predictability” theme as the capstone demos.
 
----
-
-## Sources & notes
-
-Deeper write-up: `capstone-research/renderingpipeline.md`  
-*AI used as a research aid; concepts validated against engine/vendor docs.*

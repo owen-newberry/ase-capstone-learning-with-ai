@@ -91,5 +91,3 @@ Neural **animation** / light **behavior** stacks add more GPU work beside render
 
 - Neural upscalers are **black-box inference**; fix artifacts by **fixing inputs** and masks.  
 - **Frame generation** adds **pacing** and **latency** issues on top of upscaling.  
-- **FSR vs DLSS** = different trade-offs, similar **“feed the algorithm correct buffers”** theme.  
-- Deeper notes: `capstone-research/neuralrendering.md`
