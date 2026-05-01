@@ -5,6 +5,9 @@
 
 ---
 
+(Rendering Pipeline Presentation)[https://github.com/owen-newberry/ase-capstone-learning-with-ai/blob/main/renderingPipeline/presentation.pdf]
+(Neural Rendering Presentation)[https://github.com/owen-newberry/ase-capstone-learning-with-ai/blob/main/neuralRendering/presentation.pdf]
+
 ## Overview
 
 This repository documents how I use AI as a learning and research aid for my capstone on **temporal upscaling compatibility** in games: how fixed-timestep simulation, time-based animation, single-writer motion authority, and workload budgeting help game code meet the inputs that modern upscalers (DLSS, FSR, TSR) expect.
